@@ -16,5 +16,5 @@ This site was built [Home Page](https://google.com)
   - List
   - item
 - [ ] Task1
-- [x ] Task2
+- [x] Task2
 - [ ] Task3
